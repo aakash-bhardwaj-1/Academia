@@ -1,7 +1,7 @@
 /*
 ============================================================================
 Name : 18a.c
-Author : Boppana Venkatesh
+Author : Aakash Bhardwaj
 Description : Write a C, Ansi-style program to perform Record locking.
                        a. Implement write lock
 Date: 28th Aug, 2023.
