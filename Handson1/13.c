@@ -13,7 +13,7 @@ Date: 28th Aug, 2023.
 #include<unistd.h>
 #include<fcntl.h>
 int main(){
-	fd_set rfds;
+	fd_set rfds;// fd_set type is actually an array of long type. For convenience, suppose fd_set is 1 byte in length. Each bit in fd_set can correspond to a file descriptor (fd), then a 1-byte long fd_set can correspond to a maximum of 8 fds. Execute fd_set set; FD_ZERO(&set); The set is expressed in bits as 0000,0000.
 	struct timeval tv;
 	int ret;
 	
