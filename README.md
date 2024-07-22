@@ -14,3 +14,7 @@
 </br>
 </br>
 [Inode, FD, OFD](https://docs.google.com/document/d/1sSwuCT1Ho0qSqWCDhbjjD_jxM9LVPJMyJ5a1sx9XySM/edit)
+</br>
+</br>
+</br>
+[Hard Link and Soft Link](https://docs.google.com/document/d/1rhz66NvHa0zYOxWta5jOWSGNxrIUukmoJN8MOojL7a8/edit#heading=h.xlw1wstpgww)
