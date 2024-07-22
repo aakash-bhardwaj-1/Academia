@@ -54,7 +54,7 @@ int main() {
         // Process and display received data
         printf(">%s", buffer);
 
-        // Send a response (optional)
+        // Send a response (optional if no input is expected by client e.g in case of view course)
         char message[1024];
         printf("\n>");
         memset(message, 0, sizeof(message));
