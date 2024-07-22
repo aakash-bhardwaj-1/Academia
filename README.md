@@ -1,4 +1,4 @@
-# Socket Programming: Understanding Notes
+# Socket Programming:  Notes
 
 ## Reference
 
